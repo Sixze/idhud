@@ -438,4 +438,134 @@
 		"enabled"			"1"
 		"zpos"				"1"
     }
+
+	RoundBracketsDotSmall
+	{
+		"controlName"		"CExLabel"
+		"fieldName"			"RoundBracketsDotSmall"
+		"visible"			"1"
+		"enabled"			"1"
+		"zpos"				"2"
+		"xpos"				"c-50"
+		"ypos"				"c-48"
+		"wide"				"100"
+		"tall"				"100"
+		"font"				"CrosshairsCustom18"
+		"labelText"			"f"
+		"textAlignment"		"center"
+		"fgcolor"			"CustomGreen"
+	}
+
+	DotCustom
+	{
+		"controlName"		"CExLabel"
+		"fieldName"			"DotCustom"
+		"visible"			"0"
+		"enabled"			"1"
+		"zpos"				"2"
+		"xpos"				"c-50"
+		"ypos"				"c-51"
+		"wide"				"100"
+		"tall"				"101"
+		"font"				"Crosshairs11"
+		"labelText"			"k"
+		"textAlignment"		"center"
+		"fgcolor"			"CustomGreen"
+	}
+
+	HollowCrossDotCustom
+	{
+		"controlName"		"CExLabel"
+		"fieldName"			"HollowCrossDotCustom"
+		"visible"			"0"
+		"enabled"			"1"
+		"zpos"				"2"
+		"xpos"				"c-25"
+		"ypos"				"c-26"
+		"wide"				"50"
+		"tall"				"50"
+		"font"				"Crosshairs11"
+		"labelText"			"c"
+		"textAlignment"		"center"
+		"fgcolor"			"TransparentGreen"
+	}
+
+	AngularBracketsHitIndicator
+	{
+		"ControlName"		"EditablePanel"
+		"fieldname"			"AngularBracketsHitIndicator"
+		"visible"			"1"
+		"enabled"			"1"
+		"wide"				"500"
+		"tall"				"500"
+		"AngularBracketsHitIndicatorLeftTop"
+		{
+
+			"controlName"		"ceXLabel"
+			"fieldName"			"AngularBracketsHitIndicatorLeftTop"
+			"visible"			"1"
+			"visible_minmode"	"1"
+			"enabled"			"1"
+			"zpos"				"1"
+			"xpos"				"c-61"
+			"ypos"				"c-58"
+			"wide"				"100"
+			"tall"				"100"
+			"font"				"AngularBracketsSlash"
+			"labelText"			"\"
+			"textAlignment"		"center"
+			"fgcolor"			"CustomTransparent"
+		}
+		"AngularBracketsHitIndicatorLeftBottom"
+		{
+			"controlName"		"ceXLabel"
+			"fieldName"			"AngularBracketsHitIndicatorLeftBottom"
+			"visible"			"1"
+			"visible_minmode"	"1"
+			"enabled"			"1"
+			"zpos"				"1"
+			"xpos"				"c-61"
+			"ypos"				"c-42"
+			"wide"				"100"
+			"tall"				"100"
+			"font"				"AngularBracketsSlash"
+			"labelText"			"/"
+			"textAlignment"		"center"
+			"fgcolor"			"CustomTransparent"
+		}
+		"AngularBracketsHitIndicatorRightTop"
+		{
+			"controlName"		"ceXLabel"
+			"fieldName"			"AngularBracketsHitIndicatorRightTop"
+			"visible"			"1"
+			"visible_minmode"	"1"
+			"enabled"			"1"
+			"zpos"				"1"
+			"xpos"				"c-39"
+			"ypos"				"c-58"
+			"wide"				"99"
+			"tall"				"100"
+			"font"				"AngularBracketsSlash"
+			"labelText"			"/"
+			"textAlignment"		"center"
+			"fgcolor"			"CustomTransparent"
+		}
+		"AngularBracketsHitIndicatorRightBottom"
+		{
+			"controlName"		"ceXLabel"
+			"fieldName"			"AngularBracketsHitIndicatorRightBottom"
+			"visible"			"1"
+			"visible_minmode"	"1"
+			"enabled"			"1"
+			"zpos"				"1"
+			"xpos"				"c-39"
+			"ypos"				"c-42"
+			"wide"				"99"
+			"tall"				"100"
+			"font"				"AngularBracketsSlash"
+			"labelText"			"\"
+			"textAlignment"		"center"
+			"fgcolor"			"CustomTransparent"
+		}
+	}
 }

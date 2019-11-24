@@ -9,7 +9,7 @@
 		"PositiveColor"			"CustomGreen"
 		"NegativeColor"			"CustomYellow"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"HudFontMediumBold"
-		"delta_item_font_big"	"HudFontMediumBold"
+		"delta_item_font"		"HudFontMediumShadow"
+		"delta_item_font_big"	"HudFontMediumShadow"
 	}
 }
