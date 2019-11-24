@@ -13,6 +13,7 @@ Scheme
 		"CustomYellow"			"255 255 80 255"
 		"CustomLightGreen"		"150 255 150 255"
 		"CustomTransparent"		"0 0 0 0"
+		"TransparentGreen"		"80 255 80 170"
 	}
 
 	Fonts
@@ -741,6 +742,39 @@ Scheme
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
+		"CrosshairsCustom18"
+		{
+			"1"
+			{
+				"name"			"Crosshairs"
+				"tall"			"18"
+				"antialias"		"1"
+				"additive"		"0"
+				"outline"		"1"
+			}
+		}
+		"Crosshairs11"
+		{
+			"1"
+			{
+				"name"			"xhairs"
+				"tall"			"11"
+				"antialias"		"1"
+				"additive"		"0"
+				"outline"		"1"
+			}
+		}
+		"AngularBracketsSlash"
+		{
+			"1"
+			{
+				"name"			"xhairs"
+				"tall"			"5"
+				"antialias"		"0"
+				"additive"		"0"
+				"outline"		"1"
+			}
+		}
 	}
 
 	CustomFontFiles
@@ -823,6 +857,11 @@ Scheme
 		{
 			"font" "resource/fonts/tf2cross.ttf"
 			"name" "tf2cross"
+		}
+		"13"
+		{
+			"font" "resource/fonts/fogscrosshairs.otf"
+			"name" "Crosshairs"
 		}
 	}
 }
