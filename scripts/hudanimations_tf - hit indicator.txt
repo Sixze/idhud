@@ -29,5 +29,14 @@ event HitMarker
 
 	Animate 		Dot 					FgColor 	"CustomRed" 				Linear 0.0 0.0001
 	Animate 		Dot 					FgColor 	"CustomWhite" 				Linear 0.15 0.1
+	
+	Animate 		AngularBracketsHitIndicatorLeftTop  		FgColor 	"CustomWhite" 				Linear 0.0 0.0001
+	Animate 		AngularBracketsHitIndicatorLeftTop 		FgColor 	"CustomTransparent" 		Linear 0.15 0.3
+	Animate 		AngularBracketsHitIndicatorLeftBottom 	FgColor 	"CustomWhite" 				Linear 0.0 0.0001
+	Animate 		AngularBracketsHitIndicatorLeftBottom 	FgColor 	"CustomTransparent" 		Linear 0.15 0.3
+	Animate 		AngularBracketsHitIndicatorRightTop 		FgColor 	"CustomWhite" 				Linear 0.0 0.0001
+	Animate 		AngularBracketsHitIndicatorRightTop 		FgColor 	"CustomTransparent" 		Linear 0.15 0.3
+	Animate 		AngularBracketsHitIndicatorRightBottom 	FgColor 	"CustomWhite" 				Linear 0.0 0.0001
+	Animate 		AngularBracketsHitIndicatorRightBottom 	FgColor 	"CustomTransparent" 		Linear 0.15 0.3
 
 }
