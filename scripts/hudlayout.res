@@ -14,12 +14,12 @@
 		"wide"					"f0"
 		"tall"					"480"
 	}
-	
+
 	HudDeathNotice
 	{
 		"MaxDeathNotices" 		"6"
 	}
-	
+
 	HudCloseCaption
 	{
 		"xpos"					"c-250"
@@ -33,7 +33,7 @@
 		"ItemFadeOutTime"		"0.3"
 		"topoffset"				"0"
 	}
-	
+
 	HudTournament
 	{
 		"fieldName"				"HudTournament"
@@ -46,7 +46,7 @@
 		"wide"					"250"
 		"tall"					"80"
 	}
-	
+
 	HudTournamentSetup
 	{
 		"fieldName"				"HudTournamentSetup"
@@ -58,7 +58,7 @@
 		"wide"					"180"
 		"tall"					"65"
 	}
-	
+
 	"CTFStreakNotice"
 	{
 		"fieldName"				"CTFStreakNotice"
@@ -71,7 +71,7 @@
 		"bgcolor_override"		"0 0 0 0"
 		"PaintBackgroundType"	"0"
 	}
-	
+
 	DisguiseStatus
 	{
 		"fieldName" 			"DisguiseStatus"
@@ -83,5 +83,20 @@
 		"ypos_minmode"			"r69"
 		"wide"					"500"
 		"tall"					"200"
+	}
+
+	"TransparentViewmodelMask"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"TransparentViewmodelMask"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-100"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/REFRACTnormal_transparent"
+		"scaleImage"	"1"
 	}
 }
