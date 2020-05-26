@@ -764,6 +764,17 @@ Scheme
 				"outline"		"1"
 			}
 		}
+		"Crosshairs9"
+		{
+			"1"
+			{
+				"name"			"xhairs"
+				"tall"			"9"
+				"antialias"		"0"
+				"additive"		"0"
+				"outline"		"1"
+			}
+		}
 		"AngularBracketsSlash"
 		{
 			"1"
